@@ -1,0 +1,40 @@
+tabstave
+notes 0/5 4/3 0/4 0/5 2/3h4/3 0/4 2/3
+text ++, .2, :h,(3カポ)イントロ
+
+tabstave
+notes 8/4 7/3 8/3 8/2 10/1 8/2 11/2
+text ++, .2, :h,サビ前
+
+tabstave
+notes 10/3 7/3 10/3 
+text ++, .2, :h,サビ前(たったた)
+
+tabstave
+notes 7/4 0/3 7/3
+text ++, .2, :h,サビ(3カポ)
+
+tabstave
+notes 8/3 8/2 10/1 8/2 11/2
+text ++, .2, :h,サビ前2
+
+tabstave
+notes 0/4 8/3 11/2 8/2 10/1
+text ++, .2, :h,サビ前3
+
+tabstave
+notes 11/2 0/2 0/3
+text ++, .2, :h,サビ前3(たったた)
+
+tabstave
+notes 11/2 0/2 0/3
+text ++, .2, :h,サビ3
+
+tabstave
+notes 3/5 0/3 2/3 0/3 2/2 0/2
+text ++, .2, :h,cメロ繰り返し
+
+tabstave
+notes (2/5.4/4)
+text ++, .2, :h,アウトロ
+
